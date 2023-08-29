@@ -1,0 +1,9 @@
+create database sonam;
+
+
+
+
+
+use sonam;
+create table propertySearch1(propertyId varchar(50), noOfRooms varchar(50), areaInSqft varchar(50), 
+city varchar(50), state varchar(50), cost double,floorNo varchar(50), ownerName varchar(50), ownerContactNo varchar(50)) ;
